@@ -16,6 +16,14 @@
 
 # **Skills**:
 
+1. HTML5
+2. CSS/Scss
+3. JavaScript/TypeScript
+4. React (Next.js, Gatsby, Redux, Mobx)
+5. Vue (Nuxt.js, Vuex)
+6. REST
+7. GraphQl
+
 # **Code example**:
 
 # **Languages**:

@@ -19,3 +19,9 @@
 # **Code example**:
 
 # **Languages**:
+
+### English (intermediate)
+
+### Russian (native)
+
+### Polish (beginner)

@@ -14,6 +14,12 @@
 
 # **Summary**:
 
+Hi! My name is Dima. I'm from Belarus and I want to become a frontend developer.
+I became interested in programming about 1 year ago and I have already gained a lot of knowledge.
+I have a lot of knowledge in HTML, CSS and JavaScript. Also I have some projects in my [Github](https://github.com/DzmitryRev).
+My second hobbie is a Languages. I have a purpose for my life - learn five foreign languages!
+Hovewer, for now I know only Russian, Belarussian (native) and English (intermediate).
+
 # **Skills**:
 
 1. HTML5

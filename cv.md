@@ -37,5 +37,3 @@ Hovewer, for now I know only Russian, Belarussian (native) and English (intermed
 ### English (intermediate)
 
 ### Russian (native)
-
-### Polish (beginner)

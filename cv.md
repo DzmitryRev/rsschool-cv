@@ -30,7 +30,9 @@ Hovewer, for now I know only Russian, Belarussian (native) and English (intermed
 6. REST
 7. GraphQl
 
-# **Code example**:
+# **Education**:
+
+Belarusian National Technological University (2019 - 2023) - correspondence studying.
 
 # **Languages**:
 

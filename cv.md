@@ -8,9 +8,9 @@
 
 ### **Email**: reuchankadzmitry@gmail.com
 
-### **Github**: [https://github.com/DzmitryRev](https://github.com/DzmitryRev)
+### **[Github](https://github.com/DzmitryRev)**
 
-### **Linkedin**: [https://www.linkedin.com/in/dmitry-revchenko/](https://www.linkedin.com/in/dmitry-revchenko/)
+### **[Linkedin](https://www.linkedin.com/in/dmitry-revchenko/)**
 
 # **Summary**:
 
